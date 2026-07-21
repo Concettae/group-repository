@@ -99,10 +99,54 @@
             <!-- SECOND PERSON: JANE (filled by David / Austin)              -->
             <!-- INSERT CODE BELOW THE NEXT LINE -->
             <!-- ============================================================= -->
-
-
-
-
+<section class="person-card" id="person-alvin">
+                <div class="avatar-zone">
+                    <!-- Avatar: self-portrait OR icon / animated character -->
+                    <div class="avatar-icon animated-avatar">
+                        🧑
+                    </div>
+                    <!-- alternative: if they want to use self-portrait image, they can replace above div with an img tag -->
+                    <!-- <img class="avatar-img" src="https://placekitten.com/120/120" alt="self portrait"> -->
+                    <div class="avatar-choice-badge">
+                        ⚡ avatar style: icon (animated)
+                    </div>
+                </div>
+                <div class="person-details">
+                    <h2>Alvin <span class="username">(@creative_alvin)</span></h2>
+                    <div class="username-list">
+                        <span class="username-badge">discord: alvin_creative</span>
+                        <span class="username-badge">github: alvin-designs</span>
+                        <span class="username-badge">ig: @alvin.creates</span>
+                    </div>
+                    <!-- ASPIRATIONS block (custom) -->
+                    <div class="aspiration-block">
+                        <h3>🌱 aspirations</h3>
+                        <p>Build an open-source design tool for teens • become a UI/UX mentor • illustrate a graphic
+                            novel</p>
+                    </div>
+                    <!-- INTERESTS section (template block) -->
+                    <div class="interests-block">
+                        <h3>🎯 interests</h3>
+                        <ul class="interests-list">
+                            <li>♟ chess</li>
+                            <li>🎮 fps</li>
+                            <li>⚽ soccer</li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- PETS SECTION - REPLICABLE BLOCK (each pet as a card) -->
+                <div class="pets-collection">
+                    <h3>🐾 pets <span class="hint-text">(copy this whole .pet-card to add more)</span></h3>
+                    <!-- PET CARD 1 - Luna -->
+                    <div class="pet-card">
+                        <div class="pet-img emoji-pet">🐕</div>
+                        <div class="pet-info">
+                            <div class="pet-name">Lucky</div>
+                            <div class="pet-type">dog · tuxedo</div>
+                            <div class="pet-color">black & white + white paws</div>
+                        </div>
+                    </div>
+    </section>
             <!-- ============================================================= -->
             <!-- THIRD PERSON: AUSTIN (filled by Jane & David)              -->
             <!-- INSERT CODE BELOW THE NEXT LINE -->
