@@ -4,4 +4,4 @@
 2.We are all passionate about coding
 3.We all have pets
 4.We all play a sport
-We all love cats
+5.We all love cats
